@@ -1,0 +1,285 @@
+﻿0017	0x0011	Potion LA	Potion	Bag Medicine pocket icon.png	Medicine pocket
+0023	0x0017	Full Restore LA	Full Restore	Bag Medicine pocket icon.png	Medicine pocket
+0024	0x0018	Max Potion LA	Max Potion	Bag Medicine pocket icon.png	Medicine pocket
+0025	0x0019	Hyper Potion LA	Hyper Potion	Bag Medicine pocket icon.png	Medicine pocket
+0026	0x001A	Super Potion LA	Super Potion	Bag Medicine pocket icon.png	Medicine pocket
+0027	0x001B	Full Heal LA	Full Heal	Bag Medicine pocket icon.png	Medicine pocket
+0028	0x001C	Revive LA	Revive	Bag Medicine pocket icon.png	Medicine pocket
+0029	0x001D	Max Revive LA	Max Revive	Bag Medicine pocket icon.png	Medicine pocket
+0039	0x0027	Max Ether LA	Max Ether	Bag Medicine pocket icon.png	Medicine pocket
+0041	0x0029	Max Elixir LA	Max Elixir	Bag Medicine pocket icon.png	Medicine pocket
+0050	0x0032	Rare Candy LA	Rare Candy	Bag Other Items pocket icon.png	Other Items pocket
+0054	0x0036	Old Gateau LA	Old Gateau	Bag Medicine pocket icon.png	Medicine pocket
+0072	0x0048	Red Shard LA	Red Shard	Bag Unknown pocket icon.png	Unknown pocket
+0073	0x0049	Blue Shard LA	Blue Shard	Bag Unknown pocket icon.png	Unknown pocket
+0075	0x004B	Green Shard LA	Green Shard	Bag Unknown pocket icon.png	Unknown pocket
+0080	0x0050	Sun Stone LA	Sun Stone	Bag Other Items pocket icon.png	Other Items pocket
+0081	0x0051	Moon Stone LA	Moon Stone	Bag Other Items pocket icon.png	Other Items pocket
+0082	0x0052	Fire Stone LA	Fire Stone	Bag Other Items pocket icon.png	Other Items pocket
+0083	0x0053	Thunder Stone LA	Thunder Stone	Bag Other Items pocket icon.png	Other Items pocket
+0084	0x0054	Water Stone LA	Water Stone	Bag Other Items pocket icon.png	Other Items pocket
+0085	0x0055	Leaf Stone LA	Leaf Stone	Bag Other Items pocket icon.png	Other Items pocket
+0090	0x005A	Stardust LA	Stardust	Bag Treasures pocket icon.png	Treasures pocket
+0091	0x005B	Star Piece LA	Star Piece	Bag Treasures pocket icon.png	Treasures pocket
+0092	0x005C	Nugget LA	Nugget	Bag Treasures pocket icon.png	Treasures pocket
+0107	0x006B	Shiny Stone LA	Shiny Stone	Bag Other Items pocket icon.png	Other Items pocket
+0108	0x006C	Dusk Stone LA	Dusk Stone	Bag Other Items pocket icon.png	Other Items pocket
+0109	0x006D	Dawn Stone LA	Dawn Stone	Bag Other Items pocket icon.png	Other Items pocket
+0110	0x006E	Oval Stone LA	Oval Stone	Bag Other Items pocket icon.png	Other Items pocket
+0111	0x006F	Odd Keystone LA	Odd Keystone	Bag Unknown pocket icon.png	Unknown pocket
+0149	0x0095	Cheri Berry LA	Cheri Berry	Bag Berries pocket icon.png	Berries pocket
+0150	0x0096	Chesto Berry LA	Chesto Berry	Bag Berries pocket icon.png	Berries pocket
+0151	0x0097	Pecha Berry LA	Pecha Berry	Bag Berries pocket icon.png	Berries pocket
+0152	0x0098	Rawst Berry LA	Rawst Berry	Bag Berries pocket icon.png	Berries pocket
+0153	0x0099	Aspear Berry LA	Aspear Berry	Bag Berries pocket icon.png	Berries pocket
+0154	0x009A	Leppa Berry LA	Leppa Berry	Bag Berries pocket icon.png	Berries pocket
+0155	0x009B	Oran Berry LA	Oran Berry	Bag Berries pocket icon.png	Berries pocket
+0157	0x009D	Lum Berry LA	Lum Berry	Bag Berries pocket icon.png	Berries pocket
+0158	0x009E	Sitrus Berry LA	Sitrus Berry	Bag Berries pocket icon.png	Berries pocket
+0159	0x009F	Figy Berry LA	Figy Berry	Bag Berries pocket icon.png	Berries pocket
+0160	0x00A0	Wiki Berry LA	Wiki Berry	Bag Berries pocket icon.png	Berries pocket
+0161	0x00A1	Mago Berry LA	Mago Berry	Bag Berries pocket icon.png	Berries pocket
+0162	0x00A2	Aguav Berry LA	Aguav Berry	Bag Berries pocket icon.png	Berries pocket
+0163	0x00A3	Iapapa Berry LA	Iapapa Berry	Bag Berries pocket icon.png	Berries pocket
+0164	0x00A4	Razz Berry LA	Razz Berry	Bag Unknown pocket icon.png	Unknown pocket
+0166	0x00A6	Nanab Berry LA	Nanab Berry	Bag Unknown pocket icon.png	Unknown pocket
+0168	0x00A8	Pinap Berry LA	Pinap Berry	Bag Unknown pocket icon.png	Unknown pocket
+0233	0x00E9	Metal Coat LA	Metal Coat	Bag Other Items pocket icon.png	Other Items pocket
+0252	0x00FC	Upgrade LA	Upgrade	Bag Other Items pocket icon.png	Other Items pocket
+0298	0x012A	Flame Plate LA	Flame Plate	Bag Other Items pocket icon.png	Other Items pocket
+0299	0x012B	Splash Plate LA	Splash Plate	Bag Other Items pocket icon.png	Other Items pocket
+0300	0x012C	Zap Plate LA	Zap Plate	Bag Other Items pocket icon.png	Other Items pocket
+0301	0x012D	Meadow Plate LA	Meadow Plate	Bag Other Items pocket icon.png	Other Items pocket
+0302	0x012E	Icicle Plate LA	Icicle Plate	Bag Other Items pocket icon.png	Other Items pocket
+0303	0x012F	Fist Plate LA	Fist Plate	Bag Other Items pocket icon.png	Other Items pocket
+0304	0x0130	Toxic Plate LA	Toxic Plate	Bag Other Items pocket icon.png	Other Items pocket
+0305	0x0131	Earth Plate LA	Earth Plate	Bag Other Items pocket icon.png	Other Items pocket
+0306	0x0132	Sky Plate LA	Sky Plate	Bag Other Items pocket icon.png	Other Items pocket
+0307	0x0133	Mind Plate LA	Mind Plate	Bag Other Items pocket icon.png	Other Items pocket
+0308	0x0134	Insect Plate LA	Insect Plate	Bag Other Items pocket icon.png	Other Items pocket
+0309	0x0135	Stone Plate LA	Stone Plate	Bag Other Items pocket icon.png	Other Items pocket
+0310	0x0136	Spooky Plate LA	Spooky Plate	Bag Other Items pocket icon.png	Other Items pocket
+0311	0x0137	Draco Plate LA	Draco Plate	Bag Other Items pocket icon.png	Other Items pocket
+0312	0x0138	Dread Plate LA	Dread Plate	Bag Other Items pocket icon.png	Other Items pocket
+0313	0x0139	Iron Plate LA	Iron Plate	Bag Other Items pocket icon.png	Other Items pocket
+0321	0x0141	Protector LA	Protector	Bag Other Items pocket icon.png	Other Items pocket
+0322	0x0142	Electirizer LA	Electirizer	Bag Other Items pocket icon.png	Other Items pocket
+0323	0x0143	Magmarizer LA	Magmarizer	Bag Other Items pocket icon.png	Other Items pocket
+0324	0x0144	Dubious Disc LA	Dubious Disc	Bag Other Items pocket icon.png	Other Items pocket
+0325	0x0145	Reaper Cloth LA	Reaper Cloth	Bag Other Items pocket icon.png	Other Items pocket
+0326	0x0146	Razor Claw LA	Razor Claw	Bag Other Items pocket icon.png	Other Items pocket
+0327	0x0147	Razor Fang LA	Razor Fang	Bag Unknown pocket icon.png	Unknown pocket
+0441	0x01B9	Red Chain LA	Red Chain	Bag Unknown pocket icon.png	Unknown pocket
+0455	0x01C7	Azure Flute LA	Azure Flute	Bag Unknown pocket icon.png	Unknown pocket
+0466	0x01D2	Gracidea LA	Gracidea	Bag Unknown pocket icon.png	Unknown pocket
+0583	0x0247	Comet Shard LA	Comet Shard	Bag Treasures pocket icon.png	Treasures pocket
+0632	0x0278	Shiny Charm LA	Shiny Charm	Bag Key Items pocket icon.png	Key Items pocket
+0638	0x027E	Reveal Glass LA	Reveal Glass	Bag Key Items pocket icon.png	Key Items pocket
+0644	0x0284	Pixie Plate LA	Pixie Plate	Bag Other Items pocket icon.png	Other Items pocket
+0849	0x0351	Ice Stone LA	Ice Stone	Bag Other Items pocket icon.png	Other Items pocket
+1125	0x0465	Exp. Candy S LA	Exp. Candy S	Bag Other Items pocket icon.png	Other Items pocket
+1126	0x0466	Exp. Candy M LA	Exp. Candy M	Bag Other Items pocket icon.png	Other Items pocket
+1127	0x0467	Exp. Candy L LA	Exp. Candy L	Bag Other Items pocket icon.png	Other Items pocket
+1128	0x0468	Exp. Candy XL LA	Exp. Candy XL	Bag Other Items pocket icon.png	Other Items pocket
+1231	0x04CF	Mint Attack LA	Lonely Mint	Bag Other Items pocket icon.png	Other Items pocket
+1232	0x04D0	Mint Attack LA	Adamant Mint	Bag Other Items pocket icon.png	Other Items pocket
+1233	0x04D1	Mint Attack LA	Naughty Mint	Bag Other Items pocket icon.png	Other Items pocket
+1234	0x04D2	Mint Attack LA	Brave Mint	Bag Other Items pocket icon.png	Other Items pocket
+1235	0x04D3	Mint Defense LA	Bold Mint	Bag Other Items pocket icon.png	Other Items pocket
+1236	0x04D4	Mint Defense LA	Impish Mint	Bag Other Items pocket icon.png	Other Items pocket
+1237	0x04D5	Mint Defense LA	Lax Mint	Bag Other Items pocket icon.png	Other Items pocket
+1238	0x04D6	Mint Defense LA	Relaxed Mint	Bag Other Items pocket icon.png	Other Items pocket
+1239	0x04D7	Mint Sp. Atk LA	Modest Mint	Bag Other Items pocket icon.png	Other Items pocket
+1240	0x04D8	Mint Sp. Atk LA	Mild Mint	Bag Other Items pocket icon.png	Other Items pocket
+1241	0x04D9	Mint Sp. Atk LA	Rash Mint	Bag Other Items pocket icon.png	Other Items pocket
+1242	0x04DA	Mint Sp. Atk LA	Quiet Mint	Bag Other Items pocket icon.png	Other Items pocket
+1243	0x04DB	Mint Sp. Def LA	Calm Mint	Bag Other Items pocket icon.png	Other Items pocket
+1244	0x04DC	Mint Sp. Def LA	Gentle Mint	Bag Other Items pocket icon.png	Other Items pocket
+1245	0x04DD	Mint Sp. Def LA	Careful Mint	Bag Other Items pocket icon.png	Other Items pocket
+1246	0x04DE	Mint Sp. Def LA	Sassy Mint	Bag Other Items pocket icon.png	Other Items pocket
+1247	0x04DF	Mint Speed LA	Timid Mint	Bag Other Items pocket icon.png	Other Items pocket
+1248	0x04E0	Mint Speed LA	Hasty Mint	Bag Other Items pocket icon.png	Other Items pocket
+1249	0x04E1	Mint Speed LA	Jolly Mint	Bag Other Items pocket icon.png	Other Items pocket
+1250	0x04E2	Mint Speed LA	Naive Mint	Bag Other Items pocket icon.png	Other Items pocket
+1251	0x04E3	Serious Mint LA	Serious Mint	Bag Other Items pocket icon.png	Other Items pocket
+1608	0x0648	Time Balm LA	Time Balm	Bag Other Items pocket icon.png	Other Items pocket
+1609	0x0649	Space Balm LA	Space Balm	Bag Other Items pocket icon.png	Other Items pocket
+1610	0x064A	Mysterious Balm LA	Mysterious Balm	Bag Other Items pocket icon.png	Other Items pocket
+1611	0x064B	Linking Cord LA	Linking Cord	Bag Other Items pocket icon.png	Other Items pocket
+1612	0x064C	Hometown Muffin LA	Hometown Muffin	Bag Other Items pocket icon.png	Other Items pocket
+1613	0x064D	Apricorn LA	Apricorn	Bag Other Items pocket icon.png	Other Items pocket
+1614	0x064E	Hometown Muffin LA	Jubilife Muffin	Bag Other Items pocket icon.png	Other Items pocket
+1615	0x064F	Aux Powerguard LA	Aux Powerguard	Bag Other Items pocket icon.png	Other Items pocket
+1616	0x0650	Dire Hit LA	Dire Hit	Bag Other Items pocket icon.png	Other Items pocket
+1617	0x0651	Choice Dumpling LA	Choice Dumpling	Bag Other Items pocket icon.png	Other Items pocket
+1618	0x0652	Twice-Spiced Radish LA	Twice-Spiced Radish	Bag Other Items pocket icon.png	Other Items pocket
+1619	0x0653	Swap Snack LA	Swap Snack	Bag Other Items pocket icon.png	Other Items pocket
+1620	0x0654	Caster Fern LA	Caster Fern	Bag Other Items pocket icon.png	Other Items pocket
+1621	0x0655	Seed of Mastery LA	Seed of Mastery	Bag Other Items pocket icon.png	Other Items pocket
+1624	0x0658	Eternal Ice LA	Eternal Ice	Bag Other Items pocket icon.png	Other Items pocket
+1625	0x0659	Uxie's Claw LA	Uxie's Claw	Bag Other Items pocket icon.png	Other Items pocket
+1626	0x065A	Azelf's Fang LA	Azelf's Fang	Bag Other Items pocket icon.png	Other Items pocket
+1627	0x065B	Mesprit's Plume LA	Mesprit's Plume	Bag Other Items pocket icon.png	Other Items pocket
+1628	0x065C	Tumblestone LA	Tumblestone	Bag Other Items pocket icon.png	Other Items pocket
+1629	0x065D	Celestica Flute LA	Celestica Flute	Bag Other Items pocket icon.png	Other Items pocket
+1630	0x065E	Remedy LA	Remedy	Bag Other Items pocket icon.png	Other Items pocket
+1631	0x065F	Fine Remedy LA	Fine Remedy	Bag Other Items pocket icon.png	Other Items pocket
+1632	0x0660	Dazzling Honey LA	Dazzling Honey	Bag Other Items pocket icon.png	Other Items pocket
+1633	0x0661	Hearty Grains LA	Hearty Grains	Bag Other Items pocket icon.png	Other Items pocket
+1634	0x0662	Plump Beans LA	Plump Beans	Bag Other Items pocket icon.png	Other Items pocket
+1635	0x0663	Springy Mushroom LA	Springy Mushroom	Bag Other Items pocket icon.png	Other Items pocket
+1636	0x0664	Crunchy Salt LA	Crunchy Salt	Bag Other Items pocket icon.png	Other Items pocket
+1637	0x0665	Wood LA	Wood	Bag Other Items pocket icon.png	Other Items pocket
+1638	0x0666	King's Leaf LA	King's Leaf	Bag Other Items pocket icon.png	Other Items pocket
+1639	0x0667	Marsh Balm LA	Marsh Balm	Bag Other Items pocket icon.png	Other Items pocket
+1640	0x0668	Recipe LA	Recipe: Poké Ball	Bag Other Items pocket icon.png	Other Items pocket
+1641	0x0669	Recipe LA	Recipe: Great Ball	Bag Other Items pocket icon.png	Other Items pocket
+1642	0x066A	Recipe LA	Recipe: Ultra Ball	Bag Other Items pocket icon.png	Other Items pocket
+1643	0x066B	Recipe LA	Recipe: Feather Ball	Bag Other Items pocket icon.png	Other Items pocket
+1644	0x066C	Recipe LA	Recipe: Pokéshi Doll	Bag Other Items pocket icon.png	Other Items pocket
+1646	0x066E	Recipe LA	Recipe: Smoke Bomb	Bag Other Items pocket icon.png	Other Items pocket
+1647	0x066F	Recipe LA	Recipe: Scatter Bang	Bag Other Items pocket icon.png	Other Items pocket
+1648	0x0670	Recipe LA	Recipe: Sticky Glob	Bag Other Items pocket icon.png	Other Items pocket
+1649	0x0671	Recipe LA	Recipe: Star Piece	Bag Other Items pocket icon.png	Other Items pocket
+1650	0x0672	Recipe LA	Recipe: Mushroom Cake	Bag Other Items pocket icon.png	Other Items pocket
+1651	0x0673	Bugwort LA	Bugwort	Bag Other Items pocket icon.png	Other Items pocket
+1652	0x0674	Recipe LA	Recipe: Honey Cake	Bag Other Items pocket icon.png	Other Items pocket
+1653	0x0675	Recipe LA	Recipe: Grain Cake	Bag Other Items pocket icon.png	Other Items pocket
+1654	0x0676	Recipe LA	Recipe: Bean Cake	Bag Other Items pocket icon.png	Other Items pocket
+1655	0x0677	Recipe LA	Recipe: Salt Cake	Bag Other Items pocket icon.png	Other Items pocket
+1656	0x0678	Recipe LA	Recipe: Potion	Bag Other Items pocket icon.png	Other Items pocket
+1657	0x0679	Recipe LA	Recipe: Super Potion	Bag Other Items pocket icon.png	Other Items pocket
+1658	0x067A	Recipe LA	Recipe: Hyper Potion	Bag Other Items pocket icon.png	Other Items pocket
+1659	0x067B	Recipe LA	Recipe: Max Potion	Bag Other Items pocket icon.png	Other Items pocket
+1660	0x067C	Recipe LA	Recipe: Full Restore	Bag Other Items pocket icon.png	Other Items pocket
+1661	0x067D	Recipe LA	Recipe: Remedy	Bag Other Items pocket icon.png	Other Items pocket
+1662	0x067E	Recipe LA	Recipe: Fine Remedy	Bag Other Items pocket icon.png	Other Items pocket
+1663	0x067F	Recipe LA	Recipe: Superb Remedy	Bag Other Items pocket icon.png	Other Items pocket
+1664	0x0680	Recipe LA	Recipe: Old Gateau	Bag Other Items pocket icon.png	Other Items pocket
+1665	0x0681	Recipe LA	Recipe: Jubilife Muffin	Bag Other Items pocket icon.png	Other Items pocket
+1666	0x0682	Recipe LA	Recipe: Full Heal	Bag Other Items pocket icon.png	Other Items pocket
+1667	0x0683	Recipe LA	Recipe: Revive	Bag Other Items pocket icon.png	Other Items pocket
+1668	0x0684	Recipe LA	Recipe: Max Revive	Bag Other Items pocket icon.png	Other Items pocket
+1669	0x0685	Recipe LA	Recipe: Max Ether	Bag Other Items pocket icon.png	Other Items pocket
+1670	0x0686	Recipe LA	Recipe: Max Elixir	Bag Other Items pocket icon.png	Other Items pocket
+1671	0x0687	Recipe LA	Recipe: Stealth Spray	Bag Other Items pocket icon.png	Other Items pocket
+1673	0x0689	Recipe LA	Recipe: Aux Power	Bag Other Items pocket icon.png	Other Items pocket
+1674	0x068A	Recipe LA	Recipe: Aux Guard	Bag Other Items pocket icon.png	Other Items pocket
+1675	0x068B	Recipe LA	Recipe: Dire Hit	Bag Other Items pocket icon.png	Other Items pocket
+1676	0x068C	Recipe LA	Recipe: Aux Evasion	Bag Other Items pocket icon.png	Other Items pocket
+1677	0x068D	Recipe LA	Recipe: Aux Powerguard	Bag Other Items pocket icon.png	Other Items pocket
+1678	0x068E	Forest Balm LA	Forest Balm	Bag Other Items pocket icon.png	Other Items pocket
+1679	0x068F	Iron Chunk LA	Iron Chunk	Bag Other Items pocket icon.png	Other Items pocket
+1681	0x0691	Black Tumblestone LA	Black Tumblestone	Bag Other Items pocket icon.png	Other Items pocket
+1682	0x0692	Sky Tumblestone LA	Sky Tumblestone	Bag Other Items pocket icon.png	Other Items pocket
+1684	0x0694	Ball of Mud LA	Ball of Mud	Bag Other Items pocket icon.png	Other Items pocket
+1686	0x0696	Pop Pod LA	Pop Pod	Bag Other Items pocket icon.png	Other Items pocket
+1687	0x0697	Sootfoot Root LA	Sootfoot Root	Bag Other Items pocket icon.png	Other Items pocket
+1688	0x0698	Spoiled Apricorn LA	Spoiled Apricorn	Bag Other Items pocket icon.png	Other Items pocket
+1689	0x0699	Snowball LA	Snowball	Bag Other Items pocket icon.png	Other Items pocket
+1690	0x069A	Sticky Glob LA	Sticky Glob	Bag Other Items pocket icon.png	Other Items pocket
+1691	0x069B	Black Augurite LA	Black Augurite	Bag Other Items pocket icon.png	Other Items pocket
+1692	0x069C	Peat Block LA	Peat Block	Bag Other Items pocket icon.png	Other Items pocket
+1693	0x069D	Stealth Spray LA	Stealth Spray	Bag Other Items pocket icon.png	Other Items pocket
+1694	0x069E	Medicinal Leek LA	Medicinal Leek	Bag Other Items pocket icon.png	Other Items pocket
+1695	0x069F	Vivichoke LA	Vivichoke	Bag Other Items pocket icon.png	Other Items pocket
+1696	0x06A0	Pep-Up Plant LA	Pep-Up Plant	Bag Other Items pocket icon.png	Other Items pocket
+1699	0x06A3	Tempting Charm B LA	Tempting Charm B	Bag Other Items pocket icon.png	Other Items pocket
+1700	0x06A4	Tempting Charm P LA	Tempting Charm P	Bag Other Items pocket icon.png	Other Items pocket
+1701	0x06A5	Swordcap LA	Swordcap	Bag Other Items pocket icon.png	Other Items pocket
+1702	0x06A6	Iron Barktongue LA	Iron Barktongue	Bag Other Items pocket icon.png	Other Items pocket
+1703	0x06A7	Doppel Bonnets LA	Doppel Bonnets	Bag Other Items pocket icon.png	Other Items pocket
+1704	0x06A8	Direshroom LA	Direshroom	Bag Other Items pocket icon.png	Other Items pocket
+1705	0x06A9	Sand Radish LA	Sand Radish	Bag Other Items pocket icon.png	Other Items pocket
+1706	0x06AA	Tempting Charm T LA	Tempting Charm T	Bag Other Items pocket icon.png	Other Items pocket
+1707	0x06AB	Tempting Charm Y LA	Tempting Charm Y	Bag Other Items pocket icon.png	Other Items pocket
+1708	0x06AC	Candy Truffle LA	Candy Truffle	Bag Other Items pocket icon.png	Other Items pocket
+1709	0x06AD	Cake-Lure Base LA	Cake-Lure Base	Bag Other Items pocket icon.png	Other Items pocket
+1710	0x06AE	Poké Ball LA	Poké Ball	Bag Other Items pocket icon.png	Other Items pocket
+1711	0x06AF	Great Ball LA	Great Ball	Bag Other Items pocket icon.png	Other Items pocket
+1712	0x06B0	Ultra Ball LA	Ultra Ball	Bag Other Items pocket icon.png	Other Items pocket
+1713	0x06B1	Feather Ball LA	Feather Ball	Bag Other Items pocket icon.png	Other Items pocket
+1716	0x06B4	Scatter Bang LA	Scatter Bang	Bag Other Items pocket icon.png	Other Items pocket
+1717	0x06B5	Smoke Bomb LA	Smoke Bomb	Bag Other Items pocket icon.png	Other Items pocket
+1720	0x06B8	Pokéshi Doll LA	Pokéshi Doll	Bag Other Items pocket icon.png	Other Items pocket
+1721	0x06B9	Volcano Balm LA	Volcano Balm	Bag Other Items pocket icon.png	Other Items pocket
+1722	0x06BA	Mountain Balm LA	Mountain Balm	Bag Other Items pocket icon.png	Other Items pocket
+1723	0x06BB	Snow Balm LA	Snow Balm	Bag Other Items pocket icon.png	Other Items pocket
+1724	0x06BC	Honey Cake LA	Honey Cake	Bag Other Items pocket icon.png	Other Items pocket
+1725	0x06BD	Grain Cake LA	Grain Cake	Bag Other Items pocket icon.png	Other Items pocket
+1726	0x06BE	Bean Cake LA	Bean Cake	Bag Other Items pocket icon.png	Other Items pocket
+1727	0x06BF	Mushroom Cake LA	Mushroom Cake	Bag Other Items pocket icon.png	Other Items pocket
+1728	0x06C0	Salt Cake LA	Salt Cake	Bag Other Items pocket icon.png	Other Items pocket
+1729	0x06C1	Recipe LA	Recipe: Swap Snack	Bag Other Items pocket icon.png	Other Items pocket
+1730	0x06C2	Recipe LA	Recipe: Choice Dumpling	Bag Other Items pocket icon.png	Other Items pocket
+1731	0x06C3	Recipe LA	Recipe: Twice-Spiced Radish	Bag Other Items pocket icon.png	Other Items pocket
+1732	0x06C4	Survival Charm R LA	Survival Charm R	Bag Other Items pocket icon.png	Other Items pocket
+1733	0x06C5	Survival Charm B LA	Survival Charm B	Bag Other Items pocket icon.png	Other Items pocket
+1734	0x06C6	Survival Charm P LA	Survival Charm P	Bag Other Items pocket icon.png	Other Items pocket
+1735	0x06C7	Survival Charm T LA	Survival Charm T	Bag Other Items pocket icon.png	Other Items pocket
+1736	0x06C8	Survival Charm Y LA	Survival Charm Y	Bag Other Items pocket icon.png	Other Items pocket
+1737	0x06C9	Torn Journal LA	Torn Journal	Bag Other Items pocket icon.png	Other Items pocket
+1738	0x06CA	Warding Charm R LA	Warding Charm R	Bag Other Items pocket icon.png	Other Items pocket
+1739	0x06CB	Warding Charm B LA	Warding Charm B	Bag Other Items pocket icon.png	Other Items pocket
+1740	0x06CC	Warding Charm P LA	Warding Charm P	Bag Other Items pocket icon.png	Other Items pocket
+1741	0x06CD	Warding Charm T LA	Warding Charm T	Bag Other Items pocket icon.png	Other Items pocket
+1742	0x06CE	Warding Charm Y LA	Warding Charm Y	Bag Other Items pocket icon.png	Other Items pocket
+1743	0x06CF	Wall Fragment LA	Wall Fragment	Bag Other Items pocket icon.png	Other Items pocket
+1744	0x06D0	Basculegion Food LA	Basculegion Food	Bag Other Items pocket icon.png	Other Items pocket
+1745	0x06D1	Old Journal LA	Old Journal	Bag Other Items pocket icon.png	Other Items pocket
+1746	0x06D2	Wing Ball LA	Wing Ball	Bag Other Items pocket icon.png	Other Items pocket
+1747	0x06D3	Jet Ball LA	Jet Ball	Bag Other Items pocket icon.png	Other Items pocket
+1748	0x06D4	Heavy Ball LA	Heavy Ball	Bag Other Items pocket icon.png	Other Items pocket
+1749	0x06D5	Leaden Ball LA	Leaden Ball	Bag Other Items pocket icon.png	Other Items pocket
+1750	0x06D6	Gigaton Ball LA	Gigaton Ball	Bag Other Items pocket icon.png	Other Items pocket
+1751	0x06D7	Recipe LA	Recipe: Wing Ball	Bag Other Items pocket icon.png	Other Items pocket
+1752	0x06D8	Recipe LA	Recipe: Jet Ball	Bag Other Items pocket icon.png	Other Items pocket
+1753	0x06D9	Recipe LA	Recipe: Heavy Ball	Bag Other Items pocket icon.png	Other Items pocket
+1754	0x06DA	Hopo Berry LA	Hopo Berry	Bag Other Items pocket icon.png	Other Items pocket
+1755	0x06DB	Superb Remedy LA	Superb Remedy	Bag Other Items pocket icon.png	Other Items pocket
+1756	0x06DC	Aux Power LA	Aux Power	Bag Other Items pocket icon.png	Other Items pocket
+1757	0x06DD	Aux Guard LA	Aux Guard	Bag Other Items pocket icon.png	Other Items pocket
+1758	0x06DE	Aux Evasion LA	Aux Evasion	Bag Other Items pocket icon.png	Other Items pocket
+1759	0x06DF	Grit Dust LA	Grit Dust	Bag Other Items pocket icon.png	Other Items pocket
+1760	0x06E0	Grit Gravel LA	Grit Gravel	Bag Other Items pocket icon.png	Other Items pocket
+1761	0x06E1	Grit Pebble LA	Grit Pebble	Bag Other Items pocket icon.png	Other Items pocket
+1762	0x06E2	Grit Rock LA	Grit Rock	Bag Other Items pocket icon.png	Other Items pocket
+1763	0x06E3	Secret Medicine LA	Secret Medicine	Bag Other Items pocket icon.png	Other Items pocket
+1764	0x06E4	Tempting Charm R LA	Tempting Charm R	Bag Other Items pocket icon.png	Other Items pocket
+1765	0x06E5	Lost Satchel LA	Lost Satchel	Bag Other Items pocket icon.png	Other Items pocket
+1766	0x06E6	Lost Satchel LA	Lost Satchel	Bag Other Items pocket icon.png	Other Items pocket
+1767	0x06E7	Lost Satchel LA	Lost Satchel	Bag Other Items pocket icon.png	Other Items pocket
+1768	0x06E8	Lost Satchel LA	Lost Satchel	Bag Other Items pocket icon.png	Other Items pocket
+1769	0x06E9	Lost Satchel LA	Lost Satchel	Bag Other Items pocket icon.png	Other Items pocket
+1771	0x06EB	Origin Ball LA	Origin Ball	Bag Other Items pocket icon.png	Other Items pocket
+1776	0x06F0	Origin Ore LA	Origin Ore	Bag Other Items pocket icon.png	Other Items pocket
+1777	0x06F1	Adamant Crystal LA	Adamant Crystal	Bag Other Items pocket icon.png	Other Items pocket
+1778	0x06F2	Lustrous Globe LA	Lustrous Globe	Bag Other Items pocket icon.png	Other Items pocket
+1779	0x06F3	Griseous Core LA	Griseous Core	Bag Other Items pocket icon.png	Other Items pocket
+1780	0x06F4	Blank Plate LA	Blank Plate	Bag Other Items pocket icon.png	Other Items pocket
+1782	0x06F6	Crafting Kit LA	Crafting Kit	Bag Other Items pocket icon.png	Other Items pocket
+1783	0x06F7	Recipe LA	Recipe: Leaden Ball	Bag Other Items pocket icon.png	Other Items pocket
+1784	0x06F8	Recipe LA	Recipe: Gigaton Ball	Bag Other Items pocket icon.png	Other Items pocket
+1785	0x06F9	Strange Ball LA	Strange Ball	Bag Other Items pocket icon.png	Other Items pocket
+1786	0x06FA	Pokédex LA	Pokédex	Bag Other Items pocket icon.png	Other Items pocket
+1787	0x06FB	Old Verse LA	Old Verse 1	Bag Other Items pocket icon.png	Other Items pocket
+1788	0x06FC	Old Verse LA	Old Verse 2	Bag Other Items pocket icon.png	Other Items pocket
+1789	0x06FD	Old Verse LA	Old Verse 3	Bag Other Items pocket icon.png	Other Items pocket
+1790	0x06FE	Old Verse LA	Old Verse 4	Bag Other Items pocket icon.png	Other Items pocket
+1792	0x0700	Old Verse LA	Old Verse 5	Bag Other Items pocket icon.png	Other Items pocket
+1793	0x0701	Old Verse LA	Old Verse 6	Bag Other Items pocket icon.png	Other Items pocket
+1794	0x0702	Old Verse LA	Old Verse 7	Bag Other Items pocket icon.png	Other Items pocket
+1795	0x0703	Old Verse LA	Old Verse 8	Bag Other Items pocket icon.png	Other Items pocket
+1796	0x0704	Old Verse LA	Old Verse 9	Bag Other Items pocket icon.png	Other Items pocket
+1797	0x0705	Old Verse LA	Old Verse 10	Bag Other Items pocket icon.png	Other Items pocket
+1798	0x0706	Old Verse LA	Old Verse 11	Bag Other Items pocket icon.png	Other Items pocket
+1799	0x0707	Old Verse LA	Old Verse 12	Bag Other Items pocket icon.png	Other Items pocket
+1800	0x0708	Old Verse LA	Old Verse 13	Bag Other Items pocket icon.png	Other Items pocket
+1801	0x0709	Old Verse LA	Old Verse 14	Bag Other Items pocket icon.png	Other Items pocket
+1802	0x070A	Old Verse LA	Old Verse 15	Bag Other Items pocket icon.png	Other Items pocket
+1803	0x070B	Old Verse LA	Old Verse 16	Bag Other Items pocket icon.png	Other Items pocket
+1804	0x070C	Old Verse LA	Old Verse 17	Bag Other Items pocket icon.png	Other Items pocket
+1805	0x070D	Old Verse LA	Old Verse 18	Bag Other Items pocket icon.png	Other Items pocket
+1806	0x070E	Old Verse LA	Old Verse 19	Bag Other Items pocket icon.png	Other Items pocket
+1807	0x070F	Old Verse LA	Old Verse 20	Bag Other Items pocket icon.png	Other Items pocket
+1828	0x0724	Legend Plate LA	Legend Plate	Bag Other Items pocket icon.png	Other Items pocket
